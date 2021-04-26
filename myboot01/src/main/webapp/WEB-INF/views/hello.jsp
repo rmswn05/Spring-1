@@ -7,7 +7,7 @@
 		<title>hello 페이지</title>
 	</head>
 	<body>
-		안녕  <br>777777
+		안녕하세요 <br>
 		${message }
 	</body>
 </html>
